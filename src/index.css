@@ -1,0 +1,14 @@
+*{
+    .nova-round-regular {
+        font-family: "Nova Round", system-ui;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+}
+body{
+    background-image: url('../src//assets/pexels-eberhardgross-1367080.jpg');
+    background-repeat: no-repeat;
+    background-size: 100vw;
+    
+}

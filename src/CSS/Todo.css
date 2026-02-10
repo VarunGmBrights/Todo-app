@@ -1,0 +1,32 @@
+.In{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    input{
+        width: 65%;
+        height: 40px;
+        border-top-left-radius: 30px;
+        border-bottom-left-radius: 30px;
+        outline: none;
+        border: none;
+        background-color: rgb(214, 211, 211);
+        font-size: 19px;
+        
+
+    
+    }
+    input::placeholder{
+        text-align: center;
+        font-size: 19px;
+    }
+
+    button{
+        border-left: none;
+        width: 60px;
+        outline: none;
+        border-top-right-radius: 30px;
+        border-bottom-right-radius: 30px;
+        border: none;
+        background-color: orange;
+    }
+}

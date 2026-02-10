@@ -1,0 +1,35 @@
+*{
+  
+    font-family: "Nova Round", system-ui;
+    font-weight: 400;
+    font-style: normal;
+
+  
+}
+.main{
+  height: 65vh;
+  width: 45vw;
+  margin: auto;
+  margin-top: 100px;
+  border-radius: 20px;
+  /* background-color: rgba(0, 0, 0, 0.091); */
+  backdrop-filter: blur(50px);
+  box-shadow: inset 1px 1px  16px 8px rgba(0, 0, 0, 0.4);
+
+
+.main-sub{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgb(39, 91, 155);
+
+
+  img{
+    height: 24px;
+    width: 24px; 
+    margin-right: 10px;
+    
+  }
+}
+
+}

@@ -1,0 +1,26 @@
+.List{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    overflow: scroll;
+    width: 90%;
+    margin: auto;
+    .tick{
+        height: 23px;
+        width: 23px;
+        position: absolute;
+        left: 70px;
+    }
+
+    p{
+        font-size: 20px;
+    }
+
+    .del{
+        height: 22px;
+        width: 22px;
+        position: absolute;
+        right: 70px;
+    }
+}
