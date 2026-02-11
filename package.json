@@ -1,5 +1,6 @@
 {
-  "name": "todo",
+"homepage": "https://VarunGmBrights.github.io/Todo-app",
+"name": "todo",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -8,7 +9,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+"deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^18.2.0",
