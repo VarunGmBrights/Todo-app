@@ -24,3 +24,36 @@
         right: 70px;
     }
 }
+
+
+@media screen and (min-width: 375px) {
+    .List{
+        display: flex; 
+         justify-content: center; 
+        align-items: center;
+        position: relative;
+        /* overflow: scroll; */
+        width: 100%;
+        margin: auto;
+
+        .tick{
+            height: 23px;
+            width: 23px;
+           position: absolute;
+           margin-right: 90px;
+            
+            
+        }
+    }
+        
+    
+
+    .del{
+        height: 22px;
+        width: 22px;
+    }
+
+    p{
+        font-size: 10px;
+    }
+}

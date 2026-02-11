@@ -12,3 +12,12 @@ body{
     background-size: 100vw;
     
 }
+
+@media screen and (min-width: 300px){
+    body{
+        background-image: url('../src//assets/pexels-eberhardgross-1367080.jpg');
+        background-repeat: no-repeat;
+        background-size: 150vh, 100vh;
+        
+    }
+}

@@ -30,3 +30,10 @@
         background-color: orange;
     }
 }
+
+@media screen and (min-width: 300px) {
+
+    input{
+        font-size: 10px;
+    }
+}

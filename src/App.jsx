@@ -10,7 +10,7 @@ function App() {
    <div className='main'>
     <div className="main-sub">
     <img src={icon} alt="" />
-    <h2>Thanu bangara</h2>
+    <h2>To-Do List</h2>
     </div>
 
     <Todo/>
