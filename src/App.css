@@ -33,15 +33,3 @@
 }
 
 }
-
-@media screen and (min-width: 300px) {
-  .main{
-    height: 80vh;
-    width: 80vw;
-    margin: auto;
-    margin-top: 50px;
-    border-radius: 20px;
-    /* background-color: rgba(0, 0, 0, 0.091); */
-    backdrop-filter: blur(50px);
-    box-shadow: inset 1px 1px  16px 8px rgba(0, 0, 0, 0.4);}
-}
